@@ -1,0 +1,5 @@
+__pycache__/
+obj_dir/
+sim_build/
+*.vcd
+*.xml
