@@ -1,5 +1,0 @@
-obj_dir/
-sim_build/
-*.vcd
-results.xml
-__pycache__/
